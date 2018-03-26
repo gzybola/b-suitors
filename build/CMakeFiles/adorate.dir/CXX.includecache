@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/grzybola/Desktop/pw2/superpraogram/ag385552/blimit.cpp
+blimit.hpp
+/home/grzybola/Desktop/pw2/superpraogram/ag385552/blimit.hpp
+
+/home/grzybola/Desktop/pw2/superpraogram/ag385552/blimit.hpp
+
