@@ -42,6 +42,8 @@ Input: A graph G = (V, E, w) and a vector b. Output: A 1/2−approximate edge we
 
 ## Performance tests
 
+Tested on: https://snap.stanford.edu/data/soc-pokec.html 
+
 | Thread number | 1       | 2       |  3      |  4       | 5       | 6       | 7       | 8       |
 | ------------- | ------- | ------- | ------- | -------- | ------- | ------- | ------- | ---- |
 | time          | 29.7978 | 20.4423 | 15.5542 |  12.4749 | 11.9792 | 10.4477 | 8.97703 | 8.00229 |
