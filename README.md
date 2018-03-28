@@ -50,4 +50,4 @@ Tested on: https://snap.stanford.edu/data/soc-pokec.html
 | speed up      | | 3.72365 | 3.31933 | 2.85209 | 2.48746 | 2.388620 | 1.91573 | 1.45765 |  
 
 
-Project made for classes at University of Warsaw.
+Project was made for classes at University of Warsaw.
