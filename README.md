@@ -1,7 +1,7 @@
 # b-suitor
 Implementation of multithreaded shared memory algorithm for approximate b-suitor
 
-Solution is based on: https://www.cs.purdue.edu/homes/apothen/Papers/bMatching-SISC-2016.pdf
+Algorithm is described in detail [here](https://www.cs.purdue.edu/homes/apothen/Papers/bMatching-SISC-2016.pdf)
 
 ## Problem statment
 
